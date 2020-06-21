@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>github的站点测试</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link type="text/css" rel="stylesheet" href="test.css">
+    </head>
+    <body>
+        <h1>下面的是样式测试：</h1>
+        <p>这里是一个P标签，文字颜色和字号是在CSS文件描述的。发生了变化，就说明了已经关联生效。</p>
+        <h1>下面的是PHP代码测试：</h1>
+        <p>当前的时间是：<?php echo date('Y年m月d日 H:i:s', time()); ?></p>
+    </body>
+</html>
